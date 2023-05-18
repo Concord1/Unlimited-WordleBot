@@ -1,5 +1,6 @@
 # Unlimited-WordleBot
 Tired of your friends beating you at the Wordle? Demonstrate your prowess by launching Unlimited WordleBot and speed through the puzzles!
+This is a Selenium bot which automatically solves the Wordle Unlimited puzzles via process of elimination. It collects a large manifest of five-letter words and progressively eliminates from it. Includes time delay to mimic human input. Performs with 100% accuracy.
 
 ## Installation
 Requirements:
