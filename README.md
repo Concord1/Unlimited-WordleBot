@@ -7,7 +7,7 @@ Requirements:
 2. WebDriver for Chrome - download the version which corresponds to your version of Chrome 
 
 Clone the repository
-'git clone https://github.com/Concord1/Unlimited-WordleBot'
+`git clone https://github.com/Concord1/Unlimited-WordleBot`
 
 ## Usage
 Paste the path to chromedriver.exe into the configuration file
