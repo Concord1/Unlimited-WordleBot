@@ -4,7 +4,11 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 import time
-pth = r"C:\Users\Harish Kanagal\Downloads\chromedriver_win32\chromedriver.exe"
+import json
+
+with open('config.json') as config_file:
+    config = json.load(config_file)
+pth = config['driver_path']
 driver_service = Service(executable_path=pth)
 driver = webdriver.Chrome(service=driver_service)
 actions = ActionChains(driver)
