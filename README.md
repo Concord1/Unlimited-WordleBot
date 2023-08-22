@@ -10,7 +10,7 @@ Requirements:
 Clone the repository - `git clone https://github.com/Concord1/Unlimited-WordleBot`
 
 ## Usage
-Paste the path to chromedriver.exe into the configuration file\
+Paste the path to chromedriver.exe into the configuration file <br> 
 
 Then, run in command line - `python wordleunlimitedbot.py`
 
