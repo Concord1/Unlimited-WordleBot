@@ -11,6 +11,7 @@ Clone the repository - `git clone https://github.com/Concord1/Unlimited-WordleBo
 
 ## Usage
 Paste the path to chromedriver.exe into the configuration file
+
 Then, run in command line - `python wordleunlimitedbot.py`
 
 
